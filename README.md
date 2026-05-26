@@ -1,1 +1,1 @@
-# life-weekly-notes-tracker
+# weekly-notes
